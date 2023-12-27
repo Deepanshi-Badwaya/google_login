@@ -30,7 +30,7 @@ authService.signInWithGoogle()
 
 ## Dependencies:
 
-This package requires the following dependencies in the yaml file and their versions that must be upgraded .
+For sign in with Google, this package contains the following dependencies in the yaml file, which must be upgraded in the future.
 
 dependencies:
 
@@ -45,5 +45,5 @@ Add the following to your `pubspec.yaml` file to use this package for google log
 ```yaml
 
 dependencies:
-  google_login: ^1.0.0
+  google_login: ^1.0.2
 
