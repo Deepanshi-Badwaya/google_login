@@ -1,6 +1,6 @@
 name: google_login
 description: "A Flutter package for Google login using firebase"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Deepanshi-Badwaya/google_login.git
 
 environment:
