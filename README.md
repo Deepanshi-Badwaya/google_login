@@ -4,7 +4,8 @@ A Flutter package for Google sign-in using Firebase.
 
 ## Usage:
 
-This package used to sign in to the google by using the authService.signInWithGoogle() method of this package
+This package used to sign in to the google by using the authService.signInWithGoogle() method of this package,
+First you need to add or connect your flutter application with firebase and add the dependency required for this package to run
 
 ## import
 
