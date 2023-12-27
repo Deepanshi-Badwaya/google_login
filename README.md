@@ -25,7 +25,7 @@ final authService = AuthServiceForGoogle();
 
 // Call the signInWithGoogle method to initiate the Google sign-in process
 
-authService.signInWithGoogle();
+authService.signInWithGoogle()
 ```
 
 ## Dependencies:
