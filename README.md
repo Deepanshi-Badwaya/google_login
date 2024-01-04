@@ -45,5 +45,5 @@ Add the following to your `pubspec.yaml` file to use this package for google log
 ```yaml
 
 dependencies:
-  google_login: ^1.0.2
+  google_login: ^1.0.3
 
